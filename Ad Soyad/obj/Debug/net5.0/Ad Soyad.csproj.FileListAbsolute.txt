@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\bin\Debug\net5.0\Ad Soyad.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\bin\Debug\net5.0\Ad Soyad.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\bin\Debug\net5.0\Ad Soyad.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\bin\Debug\net5.0\Ad Soyad.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\bin\Debug\net5.0\Ad Soyad.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\bin\Debug\net5.0\ref\Ad Soyad.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\bin\Debug\net5.0\Ad Soyad.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\obj\Debug\net5.0\Ad Soyad.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\obj\Debug\net5.0\Ad Soyad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\obj\Debug\net5.0\Ad Soyad.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\obj\Debug\net5.0\Ad Soyad.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\obj\Debug\net5.0\Ad Soyad.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\obj\Debug\net5.0\Ad Soyad.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\obj\Debug\net5.0\ref\Ad Soyad.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\obj\Debug\net5.0\Ad Soyad.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Ad Soyad\obj\Debug\net5.0\Ad Soyad.genruntimeconfig.cache
