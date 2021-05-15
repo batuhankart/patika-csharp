@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\bin\Debug\net5.0\Operatörler.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\bin\Debug\net5.0\Operatörler.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\bin\Debug\net5.0\Operatörler.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\bin\Debug\net5.0\Operatörler.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\bin\Debug\net5.0\Operatörler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\bin\Debug\net5.0\ref\Operatörler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\bin\Debug\net5.0\Operatörler.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\obj\Debug\net5.0\Operatörler.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\obj\Debug\net5.0\Operatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\obj\Debug\net5.0\Operatörler.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\obj\Debug\net5.0\Operatörler.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\obj\Debug\net5.0\Operatörler.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\obj\Debug\net5.0\Operatörler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\obj\Debug\net5.0\ref\Operatörler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\obj\Debug\net5.0\Operatörler.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Operatörler\obj\Debug\net5.0\Operatörler.genruntimeconfig.cache
