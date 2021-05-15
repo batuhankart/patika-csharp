@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\obj\Debug\net5.0\Değişkenler.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\obj\Debug\net5.0\Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\obj\Debug\net5.0\Değişkenler.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\obj\Debug\net5.0\Değişkenler.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\obj\Debug\net5.0\Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\bin\Debug\net5.0\Değişkenler.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\bin\Debug\net5.0\Değişkenler.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\bin\Debug\net5.0\Değişkenler.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\bin\Debug\net5.0\Değişkenler.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\bin\Debug\net5.0\Değişkenler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\bin\Debug\net5.0\ref\Değişkenler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\bin\Debug\net5.0\Değişkenler.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\obj\Debug\net5.0\Değişkenler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\obj\Debug\net5.0\ref\Değişkenler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\obj\Debug\net5.0\Değişkenler.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Değişkenler\obj\Debug\net5.0\Değişkenler.genruntimeconfig.cache
