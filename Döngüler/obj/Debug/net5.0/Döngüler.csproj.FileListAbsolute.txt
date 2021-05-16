@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\bin\Debug\net5.0\Döngüler.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\bin\Debug\net5.0\Döngüler.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\bin\Debug\net5.0\Döngüler.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\bin\Debug\net5.0\Döngüler.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\bin\Debug\net5.0\Döngüler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\bin\Debug\net5.0\ref\Döngüler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\bin\Debug\net5.0\Döngüler.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\obj\Debug\net5.0\Döngüler.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\obj\Debug\net5.0\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\obj\Debug\net5.0\Döngüler.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\obj\Debug\net5.0\Döngüler.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\obj\Debug\net5.0\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\obj\Debug\net5.0\Döngüler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\obj\Debug\net5.0\ref\Döngüler.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\obj\Debug\net5.0\Döngüler.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Döngüler\obj\Debug\net5.0\Döngüler.genruntimeconfig.cache
