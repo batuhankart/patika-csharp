@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\obj\Debug\net5.0\Switch Case.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\obj\Debug\net5.0\Switch Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\obj\Debug\net5.0\Switch Case.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\obj\Debug\net5.0\Switch Case.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\obj\Debug\net5.0\Switch Case.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\bin\Debug\net5.0\Switch Case.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\bin\Debug\net5.0\Switch Case.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\bin\Debug\net5.0\Switch Case.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\bin\Debug\net5.0\Switch Case.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\bin\Debug\net5.0\Switch Case.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\bin\Debug\net5.0\ref\Switch Case.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\bin\Debug\net5.0\Switch Case.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\obj\Debug\net5.0\Switch Case.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\obj\Debug\net5.0\ref\Switch Case.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\obj\Debug\net5.0\Switch Case.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Switch Case\obj\Debug\net5.0\Switch Case.genruntimeconfig.cache
