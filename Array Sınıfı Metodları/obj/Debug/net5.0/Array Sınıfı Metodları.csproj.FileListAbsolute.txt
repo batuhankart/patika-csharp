@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\obj\Debug\net5.0\Array Sınıfı Metodları.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\obj\Debug\net5.0\Array Sınıfı Metodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\obj\Debug\net5.0\Array Sınıfı Metodları.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\obj\Debug\net5.0\Array Sınıfı Metodları.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\obj\Debug\net5.0\Array Sınıfı Metodları.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\bin\Debug\net5.0\Array Sınıfı Metodları.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\bin\Debug\net5.0\Array Sınıfı Metodları.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\bin\Debug\net5.0\Array Sınıfı Metodları.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\bin\Debug\net5.0\Array Sınıfı Metodları.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\bin\Debug\net5.0\Array Sınıfı Metodları.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\bin\Debug\net5.0\ref\Array Sınıfı Metodları.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\bin\Debug\net5.0\Array Sınıfı Metodları.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\obj\Debug\net5.0\Array Sınıfı Metodları.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\obj\Debug\net5.0\ref\Array Sınıfı Metodları.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\obj\Debug\net5.0\Array Sınıfı Metodları.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Array Sınıfı Metodları\obj\Debug\net5.0\Array Sınıfı Metodları.genruntimeconfig.cache
