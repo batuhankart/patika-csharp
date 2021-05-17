@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\obj\Debug\net5.0\Metotlar.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\obj\Debug\net5.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\obj\Debug\net5.0\Metotlar.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\obj\Debug\net5.0\Metotlar.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\obj\Debug\net5.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\bin\Debug\net5.0\Metotlar.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\bin\Debug\net5.0\Metotlar.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\bin\Debug\net5.0\Metotlar.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\bin\Debug\net5.0\Metotlar.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\bin\Debug\net5.0\Metotlar.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\bin\Debug\net5.0\ref\Metotlar.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\bin\Debug\net5.0\Metotlar.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\obj\Debug\net5.0\Metotlar.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\obj\Debug\net5.0\ref\Metotlar.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\obj\Debug\net5.0\Metotlar.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Metotlar\obj\Debug\net5.0\Metotlar.genruntimeconfig.cache
