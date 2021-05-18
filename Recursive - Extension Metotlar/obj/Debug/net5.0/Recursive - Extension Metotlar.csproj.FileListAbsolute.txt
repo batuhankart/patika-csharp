@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\obj\Debug\net5.0\Recursive - Extension Metotlar.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\obj\Debug\net5.0\Recursive - Extension Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\obj\Debug\net5.0\Recursive - Extension Metotlar.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\obj\Debug\net5.0\Recursive - Extension Metotlar.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\obj\Debug\net5.0\Recursive - Extension Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\bin\Debug\net5.0\Recursive - Extension Metotlar.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\bin\Debug\net5.0\Recursive - Extension Metotlar.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\bin\Debug\net5.0\Recursive - Extension Metotlar.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\bin\Debug\net5.0\Recursive - Extension Metotlar.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\bin\Debug\net5.0\Recursive - Extension Metotlar.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\bin\Debug\net5.0\ref\Recursive - Extension Metotlar.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\bin\Debug\net5.0\Recursive - Extension Metotlar.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\obj\Debug\net5.0\Recursive - Extension Metotlar.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\obj\Debug\net5.0\ref\Recursive - Extension Metotlar.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\obj\Debug\net5.0\Recursive - Extension Metotlar.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Recursive - Extension Metotlar\obj\Debug\net5.0\Recursive - Extension Metotlar.genruntimeconfig.cache
