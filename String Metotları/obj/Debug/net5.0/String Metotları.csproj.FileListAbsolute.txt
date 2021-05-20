@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\bin\Debug\net5.0\String Metotları.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\bin\Debug\net5.0\String Metotları.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\bin\Debug\net5.0\String Metotları.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\bin\Debug\net5.0\String Metotları.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\bin\Debug\net5.0\String Metotları.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\bin\Debug\net5.0\ref\String Metotları.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\bin\Debug\net5.0\String Metotları.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\obj\Debug\net5.0\String Metotları.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\obj\Debug\net5.0\String Metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\obj\Debug\net5.0\String Metotları.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\obj\Debug\net5.0\String Metotları.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\obj\Debug\net5.0\String Metotları.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\obj\Debug\net5.0\String Metotları.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\obj\Debug\net5.0\ref\String Metotları.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\obj\Debug\net5.0\String Metotları.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\String Metotları\obj\Debug\net5.0\String Metotları.genruntimeconfig.cache
