@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\bin\Debug\net5.0\ref\Sınıf Kavramı.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\bin\Debug\net5.0\Sınıf Kavramı.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\obj\Debug\net5.0\ref\Sınıf Kavramı.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Sınıf Kavramı\obj\Debug\net5.0\Sınıf Kavramı.genruntimeconfig.cache
