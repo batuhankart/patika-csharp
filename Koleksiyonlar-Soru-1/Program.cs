@@ -31,6 +31,8 @@ namespace Koleksiyonlar_Soru_1
 
             primeNumber.Sort();
             notPrimeNumber.Sort();
+            primeNumber.Reverse();
+            notPrimeNumber.Reverse();
 
             int primeTotal = 0;
             int notPrimeTotal = 0;
