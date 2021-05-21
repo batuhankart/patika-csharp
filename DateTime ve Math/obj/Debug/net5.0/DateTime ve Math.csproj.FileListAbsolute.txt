@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\obj\Debug\net5.0\DateTime ve Math.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\obj\Debug\net5.0\DateTime ve Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\obj\Debug\net5.0\DateTime ve Math.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\obj\Debug\net5.0\DateTime ve Math.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\obj\Debug\net5.0\DateTime ve Math.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\bin\Debug\net5.0\DateTime ve Math.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\bin\Debug\net5.0\DateTime ve Math.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\bin\Debug\net5.0\DateTime ve Math.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\bin\Debug\net5.0\DateTime ve Math.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\bin\Debug\net5.0\DateTime ve Math.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\bin\Debug\net5.0\ref\DateTime ve Math.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\bin\Debug\net5.0\DateTime ve Math.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\obj\Debug\net5.0\DateTime ve Math.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\obj\Debug\net5.0\ref\DateTime ve Math.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\obj\Debug\net5.0\DateTime ve Math.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\DateTime ve Math\obj\Debug\net5.0\DateTime ve Math.genruntimeconfig.cache
