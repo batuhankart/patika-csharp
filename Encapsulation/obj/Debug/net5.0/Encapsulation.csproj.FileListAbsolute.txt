@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\obj\Debug\net5.0\Encapsulation.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache
