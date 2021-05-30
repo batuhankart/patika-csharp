@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\bin\Debug\net5.0\csharp-enum.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\bin\Debug\net5.0\csharp-enum.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\bin\Debug\net5.0\csharp-enum.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\bin\Debug\net5.0\ref\csharp-enum.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\bin\Debug\net5.0\csharp-enum.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\obj\Debug\net5.0\csharp-enum.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\obj\Debug\net5.0\csharp-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\obj\Debug\net5.0\csharp-enum.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\obj\Debug\net5.0\ref\csharp-enum.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\obj\Debug\net5.0\csharp-enum.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\csharp-enum\obj\Debug\net5.0\csharp-enum.genruntimeconfig.cache
