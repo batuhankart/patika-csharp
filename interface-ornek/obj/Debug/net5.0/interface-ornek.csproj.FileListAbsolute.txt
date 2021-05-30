@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\obj\Debug\net5.0\interface-ornek.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\obj\Debug\net5.0\interface-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\obj\Debug\net5.0\interface-ornek.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\obj\Debug\net5.0\interface-ornek.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\obj\Debug\net5.0\interface-ornek.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\bin\Debug\net5.0\interface-ornek.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\bin\Debug\net5.0\interface-ornek.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\bin\Debug\net5.0\interface-ornek.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\bin\Debug\net5.0\interface-ornek.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\bin\Debug\net5.0\interface-ornek.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\bin\Debug\net5.0\ref\interface-ornek.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\bin\Debug\net5.0\interface-ornek.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\obj\Debug\net5.0\interface-ornek.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\obj\Debug\net5.0\ref\interface-ornek.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\obj\Debug\net5.0\interface-ornek.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\interface-ornek\obj\Debug\net5.0\interface-ornek.genruntimeconfig.cache
