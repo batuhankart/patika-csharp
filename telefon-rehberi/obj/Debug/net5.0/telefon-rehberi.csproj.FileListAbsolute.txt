@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\bin\Debug\net5.0\ref\telefon-rehberi.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\obj\Debug\net5.0\ref\telefon-rehberi.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.genruntimeconfig.cache
