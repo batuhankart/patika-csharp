@@ -1,0 +1,16 @@
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\obj\Debug\net5.0\to-do.csprojAssemblyReference.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\obj\Debug\net5.0\to-do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\obj\Debug\net5.0\to-do.AssemblyInfoInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\obj\Debug\net5.0\to-do.AssemblyInfo.cs
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\obj\Debug\net5.0\to-do.csproj.CoreCompileInputs.cache
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\bin\Debug\net5.0\to-do.exe
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\bin\Debug\net5.0\to-do.deps.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\bin\Debug\net5.0\to-do.runtimeconfig.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\bin\Debug\net5.0\to-do.runtimeconfig.dev.json
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\bin\Debug\net5.0\to-do.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\bin\Debug\net5.0\ref\to-do.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\bin\Debug\net5.0\to-do.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\obj\Debug\net5.0\to-do.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\obj\Debug\net5.0\ref\to-do.dll
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\obj\Debug\net5.0\to-do.pdb
+C:\Users\akbul\Documents\GitHub\patika-csharp\to-do\obj\Debug\net5.0\to-do.genruntimeconfig.cache
